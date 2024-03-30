@@ -1,8 +1,8 @@
-Hi! My name is Jade and I'm a newbie to this GitHub world. 
+Hi! A little introduction about myself:
 
-I'm trained in data analysis and is studying towards obtaining my Associate of Science degree. I've had 2 years of working experience in total and I'm excited to grow beyond that number.
+My name is Jade. I'm trained in data analysis and am studying to obtain my Associate of Science degree. I have two years of working experience and I am excited to grow beyond that number.
 
-Feel free to contact me either at my GitHub or my LinkedIn.
+Feel free to connect with me either through GitHub or LinkedIn.
 
 Thanks for reading! <3
 
