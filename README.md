@@ -4,7 +4,7 @@ My name is Jade. I'm trained in data analysis and am studying to obtain my Assoc
 
 Feel free to connect with me either through GitHub or LinkedIn.
 
-Thanks for reading! <3
+Thanks for reading!
 
 <!---
 jbnnguyen04/jbnnguyen04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
